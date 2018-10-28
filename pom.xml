@@ -65,8 +65,7 @@
 		<!-- Xml configuration -->
 		<dependency>
         	<groupId>org.mule.mule-core</groupId>
-		<artifactId>mule-core</artifactId>
-		<version>${mule.version}</version>
+		<artifactId>mule-core-3.8.1</artifactId>
 		<scope>provided</scope>
 		</dependency>
 		<!-- Xml configuration -->
