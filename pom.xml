@@ -125,12 +125,6 @@
         </repository>
     </repositories>
     <pluginRepositories>
-	<pluginRepository>
-            <id>spring</id>
-            <name>Spring Releases Repository</name>
-            <url>http://repo.spring.io/plugins-release/</url>
-            <layout>default</layout>
-        </pluginRepository>   
         <pluginRepository>
             <id>mulesoft-release</id>
             <name>mulesoft release repository</name>
