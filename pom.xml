@@ -123,12 +123,6 @@
             <url>https://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
-	<repository>
-            <id>spring</id>
-            <name>Spring Releases Repository</name>
-            <url>http://repo.spring.io/plugins-release/</url>
-            <layout>default</layout>
-        </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
@@ -140,6 +134,12 @@
                 <enabled>false</enabled>
             </snapshots>
         </pluginRepository>
+	<pluginRepository>
+            <id>spring</id>
+            <name>Spring Releases Repository</name>
+            <url>http://repo.spring.io/plugins-release/</url>
+            <layout>default</layout>
+        </pluginRepository>    
     </pluginRepositories>
 
 </project>
